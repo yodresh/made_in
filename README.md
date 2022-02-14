@@ -5,14 +5,18 @@ All the brands are brands I have tested and own, so I can back off quality.
 
 Toutes les marques présentés sont des marques que j'ai testé ou je possède (symbolisés par un ✔️), les autres m'ont été conseillées, et je me sert donc de cette liste pour ne pas les oublier!
 
-## **Vetêments**
+➡️ Si vous avez de nouvelles entreprises à faire rentrer dans la liste, n'hésitez pas à utiliser les Issues github ou une PR.
+
+## **Habillement**
 ##### Chaussettes - Collants - Dessous
 * **Archiduchesse**: Made in France 🇫🇷 - https://www.archiduchesse.com/ ✔️
-* 
 
 ##### Chaussures
 * **Pieds de biche**: Made in Portugal 🇵🇹, Designed in France 🇫🇷 - https://fr.pieddebiche-paris.com/ ✔️
 * **Paraboot**: Made in France 🇫🇷 - https://www.paraboot.com/
+
+##### Manteaux
+* **Jules Tournier**: Made in France 🇫🇷 - https://www.jules-tournier.com/welcome/ - Présents chez https://shop.bonnegueule.fr/ ✔️
 
 ##### Gants
 * **L'atelier du Gantier**: Made in France 🇫🇷 - https://www.atelierdugantier.fr/fr/ ✔️
@@ -24,6 +28,20 @@ Toutes les marques présentés sont des marques que j'ai testé ou je possède (
 * **Piganiol**: Made in France 🇫🇷 - https://www.piganiol.fr/ ✔️
 
 ## **A Table**
+##### Miels
+* **Bleu Blanc Ruche**: Made in France 🇫🇷 - https://www.bleu-blanc-ruche.fr/ ✔️
+
+##### Epices
+* **Peugeot**: Made in France 🇫🇷 - https://fr.peugeot-saveurs.com/ - Moulins à poivre, sel et accessoire vin. ✔️
+
+## Salle de bain
+##### Rasoir
+* **Gentleman Barbier**: Made in France 🇫🇷 - https://www.gentleman-barbier.com/ - Rasoir de sureté, Blaireaux. ✔️
+
+## Maison
+##### Couettes, Draps
+* **Chicoracao**: Made in Portugal 🇵🇹 - https://chicoracao.com/ ✔️
+
 ##### Verrerie
 * **La Rochère**: Made in France 🇫🇷 - https://www.larochere.com/boutique/fr/ ✔️
 
@@ -41,13 +59,9 @@ Toutes les marques présentés sont des marques que j'ai testé ou je possède (
 * **DeBuyer**: Made in France 🇫🇷 - https://www.debuyer.com/fr/ ✔️
 * **Mauviel1830**: Made in France 🇫🇷 - https://www.mauviel.com/ ✔️
 
-## Salle de bain
-##### Rasoir
-* **Gentleman Barbier**: Made in France 🇫🇷 - https://www.gentleman-barbier.com/ - Rasoir de sureté, Blaireaux. ✔️
-
-## Maison
-##### Couettes, Draps
-* **Chicoracao**: Made in Portugal 🇵🇹 - https://chicoracao.com/ ✔️
+##### Coutellerie
+* **Fines Lames**: Made in France 🇫🇷 - https://www.lesfineslames.com/fr/, Coupe & Punch pour Cigare. ✔️
+* **Opinel**: Made in France 🇫🇷 - https://www.opinel.com/ ✔️
 
 #### Bricolage
 ##### Graisses & Huiles
@@ -56,3 +70,10 @@ Toutes les marques présentés sont des marques que j'ai testé ou je possède (
 ## Outdoor
 ##### Vélos
 * **Victoire**: Made in France 🇫🇷 - https://www.victoire-cycles.com/
+
+##### Gourde
+* **Zeste**: Made in France 🇫🇷 - https://zeste.fr/ ✔️
+
+## Generic
+* **Terre de France**: Made in France 🇫🇷 - https://www.terredefrance.fr/boutique/ ✔️
+* **Camif**: Made in France 🇫🇷 or EU 🇪🇺 - https://www.camif.fr/ - Plein d'articles différents, maison, electronique etc.

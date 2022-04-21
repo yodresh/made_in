@@ -58,6 +58,7 @@ Toutes les marques présentés sont des marques que j'ai testé ou je possède (
 * **Cristel**: Made in France 🇫🇷 - https://www.cristel.com/ ✔️
 * **DeBuyer**: Made in France 🇫🇷 - https://www.debuyer.com/fr/ ✔️
 * **Mauviel1830**: Made in France 🇫🇷 - https://www.mauviel.com/ ✔️
+* **Seb**: Made in France 🇫🇷 - https://www.seb.fr/ - Cocotte, friteuse, yaourtière, etc. ✔️
 
 ##### Coutellerie
 * **Fines Lames**: Made in France 🇫🇷 - https://www.lesfineslames.com/fr/, Coupe & Punch pour Cigare. ✔️

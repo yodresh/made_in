@@ -39,7 +39,7 @@ Toutes les marques présentés sont des marques que j'ai testé ou je possède (
 * **Gentleman Barbier**: Made in France 🇫🇷 - https://www.gentleman-barbier.com/ - Rasoir de sureté, Blaireaux. ✔️
 
 ## Maison
-##### Couettes, Draps
+##### Couettes, Draps, Couvertures
 * **Chicoracao**: Made in Portugal 🇵🇹 - https://chicoracao.com/ ✔️
 
 ##### Verrerie
@@ -53,6 +53,7 @@ Toutes les marques présentés sont des marques que j'ai testé ou je possède (
 ##### Ustensiles de cuisine
 * **DeBuyer**: Made in France 🇫🇷 - https://www.debuyer.com/fr/ ✔️
 * **Ogre La Fabrique**: Made in France 🇫🇷 - https://www.ogrelafabrique.com/ - Assiettes. ✔️
+* **Louis Tellier**: Made in France 🇫🇷 - https://www.louistellier.fr/ ✔️
 
 ##### Casseroles, Poeles
 * **Cristel**: Made in France 🇫🇷 - https://www.cristel.com/ ✔️

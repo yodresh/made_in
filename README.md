@@ -65,9 +65,12 @@ Toutes les marques présentés sont des marques que j'ai testé ou je possède (
 * **Fines Lames**: Made in France 🇫🇷 - https://www.lesfineslames.com/fr/, Coupe & Punch pour Cigare. ✔️
 * **Opinel**: Made in France 🇫🇷 - https://www.opinel.com/ ✔️
 
-#### Bricolage
+## Bricolage
 ##### Graisses & Huiles
 * **Graisse Belleville**: Made in France 🇫🇷 - https://www.graisse-belleville.fr/ ✔️
+
+##### Panneaux Solaire / Chauffe eau
+* **DualSun**: Made in France 🇫🇷 - https://dualsun.com/
 
 ## Outdoor
 ##### Vélos

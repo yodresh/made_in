@@ -73,6 +73,9 @@ Toutes les marques présentés sont des marques que j'ai testé ou je possède (
 ##### Panneaux Solaire / Chauffe eau
 * **DualSun**: Made in France 🇫🇷 - https://dualsun.com/
 
+##### Outils de mesures
+* **Stil**: Partiellement Made in France 🇫🇷 - https://stil.fr/ ✔️
+
 ## Outdoor
 ##### Vélos
 * **Victoire**: Made in France 🇫🇷 - https://www.victoire-cycles.com/

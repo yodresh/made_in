@@ -44,6 +44,7 @@ Toutes les marques présentés sont des marques que j'ai testé ou je possède (
 
 ##### Verrerie
 * **La Rochère**: Made in France 🇫🇷 - https://www.larochere.com/boutique/fr/ ✔️
+* **Saint Louis**: Made in France 🇫🇷 - https://www.saint-louis.com/
 
 ##### Plats, Céramiques, Cloche à Pain
 * **Emile Henry**: Made in France 🇫🇷 - https://www.emilehenry.com/fr/fr/ - Articles céramiques pour cuisson du pain, beurrier, tajines, cocottes. ✔️
@@ -71,7 +72,8 @@ Toutes les marques présentés sont des marques que j'ai testé ou je possède (
 * **Armistol**: Made in France 🇫🇷 - https://armistol-products.com/ ✔️
 
 ##### Panneaux Solaire / Chauffe eau
-* **DualSun**: Made in France 🇫🇷 - https://dualsun.com/
+* **DualSun**: Assemblé en France 🇫🇷 - https://dualsun.com/
+* **Sunology**: Assemblé en France 🇫🇷 - https://sunology.eu/
 
 ##### Outils de mesures
 * **Stil**: Partiellement Made in France 🇫🇷 - https://stil.fr/ ✔️

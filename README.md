@@ -92,3 +92,8 @@ Toutes les marques présentés sont des marques que j'ai testé ou je possède (
 ## Generic
 * **Terre de France**: Made in France 🇫🇷 - https://www.terredefrance.fr/boutique/ ✔️
 * **Camif**: Made in France 🇫🇷 or EU 🇪🇺 - https://www.camif.fr/ - Plein d'articles différents, maison, electronique etc.
+
+## Ameublement
+##### Outdoor furniture
+* **Fermob**: Made in France 🇫🇷 - https://www.fermob.com/ ✔️
+* **Lafuma Mobilier**: Made in France 🇫🇷 - https://lafuma-mobilier.fr ✔️

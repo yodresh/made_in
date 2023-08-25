@@ -8,6 +8,9 @@ Toutes les marques présentés sont des marques que j'ai testé ou je possède (
 ➡️ Si vous avez de nouvelles entreprises à faire rentrer dans la liste, n'hésitez pas à utiliser les Issues github ou une PR.
 
 ## **Habillement**
+##### T-shirt
+* **Terre de France**: Made in France 🇫🇷 - https://terredefrance.fr/products/tshirtbleu ✔️
+
 ##### Chaussettes - Collants - Dessous
 * **Archiduchesse**: Made in France 🇫🇷 - https://www.archiduchesse.com/ ✔️
 

@@ -26,6 +26,7 @@ Toutes les marques présentés sont des marques que j'ai testé ou je possède (
 
 ##### Parapluie
 * **Piganiol**: Made in France 🇫🇷 - https://www.piganiol.fr/ ✔️
+* **Parapluie de Cherbourg**: Made in France 🇫🇷 - https://parapluiedecherbourg.com/ ✔️
 
 ## **A Table**
 ##### Miels

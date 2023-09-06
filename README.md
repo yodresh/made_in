@@ -17,6 +17,7 @@ Toutes les marques présentés sont des marques que j'ai testé ou je possède (
 ##### Chaussures
 * **Pieds de biche**: Made in Portugal 🇵🇹, Designed in France 🇫🇷 - https://fr.pieddebiche-paris.com/ ✔️
 * **Paraboot**: Made in France 🇫🇷 - https://www.paraboot.com/
+* **La Botte Gardiane**: Made in France 🇫🇷 - https://www.labottegardiane.com/ ✔️
 
 ##### Manteaux
 * **Jules Tournier**: Made in France 🇫🇷 - https://www.jules-tournier.com/welcome/ - Présents chez https://shop.bonnegueule.fr/ ✔️

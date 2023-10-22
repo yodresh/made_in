@@ -43,6 +43,9 @@ Toutes les marques présentés sont des marques que j'ai testé ou je possède (
 ##### Rasoir
 * **Gentleman Barbier**: Made in France 🇫🇷 - https://www.gentleman-barbier.com/ - Rasoir de sureté, Blaireaux. ✔️
 
+##### Autres
+* **Apimani**: Made in France 🇫🇷 - https://apimani.fr/ - Brosse à dents, Peignes, Dentifrices...
+
 ## Maison
 ##### Couettes, Draps, Couvertures
 * **Chicoracao**: Made in Portugal 🇵🇹 - https://chicoracao.com/ ✔️

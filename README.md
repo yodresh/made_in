@@ -98,6 +98,9 @@ Toutes les marques présentés sont des marques que j'ai testé ou je possède (
 ##### Gourde
 * **Zeste**: Made in France 🇫🇷 - https://zeste.fr/ ✔️
 
+##### Couteaux
+* **Wildsteer**: Made in France 🇫🇷 - https://www.wildsteer.com/, Couteaux et équipements de chasse
+
 ## Generic
 * **Terre de France**: Made in France 🇫🇷 - https://www.terredefrance.fr/boutique/ ✔️
 * **Camif**: Made in France 🇫🇷 or EU 🇪🇺 - https://www.camif.fr/ - Plein d'articles différents, maison, electronique etc.

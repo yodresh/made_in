@@ -106,4 +106,7 @@ Toutes les marques présentés sont des marques que j'ai testé ou je possède (
 
 ## Generic
 * **Terre de France**: Made in France 🇫🇷 - https://www.terredefrance.fr/boutique/ ✔️
+
+## Enfant / Kid
+* **Renolux**: Made in France 🇫🇷 - https://www.renolux.fr/, sièges auto ✔️
 * **Camif**: Made in France 🇫🇷 or EU 🇪🇺 - https://www.camif.fr/ - Plein d'articles différents, maison, electronique etc.

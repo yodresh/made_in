@@ -104,6 +104,10 @@ Toutes les marques présentés sont des marques que j'ai testé ou je possède (
 ##### Couteaux
 * **Wildsteer**: Made in France 🇫🇷 - https://www.wildsteer.com/, Couteaux et équipements de chasse
 
+##### Eclairage
+* **Stoots**: Made in France 🇫🇷 - https://www.stootsconcept.fr/, Lampes frontales
+* **Liggoo**: Made in France 🇫🇷 - https://liggoo.com/, Lampes frontales, Poche, etc
+
 ## Generic
 * **Terre de France**: Made in France 🇫🇷 - https://www.terredefrance.fr/boutique/ ✔️
 

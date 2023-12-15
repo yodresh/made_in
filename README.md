@@ -14,6 +14,10 @@ Toutes les marques présentés sont des marques que j'ai testé ou je possède (
 ##### Chaussettes - Collants - Dessous
 * **Archiduchesse**: Made in France 🇫🇷 - https://www.archiduchesse.com/ ✔️
 
+##### Vêtements
+* **Royal Mer**: Made in France 🇫🇷 - https://www.royal-mer.com/
+* **Atelier Tuffery**: Made in France 🇫🇷 - https://www.ateliertuffery.com/
+
 ##### Chaussures
 * **Pieds de biche**: Made in Portugal 🇵🇹, Designed in France 🇫🇷 - https://fr.pieddebiche-paris.com/ ✔️
 * **Paraboot**: Made in France 🇫🇷 - https://www.paraboot.com/

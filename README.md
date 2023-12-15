@@ -30,7 +30,7 @@ Toutes les marques présentés sont des marques que j'ai testé ou je possède (
 * **L'atelier du Gantier**: Made in France 🇫🇷 - https://www.atelierdugantier.fr/fr/ ✔️
 
 ##### Chapeau
-* **Chapellerie Traclet**: Made in France 🇫🇷 - https://www.chapellerie-traclet.com/fr/
+* **Chapellerie Traclet**: Made in France 🇫🇷 - https://www.chapellerie-traclet.com/fr/ ✔️
 
 ##### Soins cuir
 * **Saphir**: Made in France 🇫🇷 - https://saphir.com/ - http://www.avel.com/ ✔️

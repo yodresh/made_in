@@ -32,6 +32,9 @@ Toutes les marques présentés sont des marques que j'ai testé ou je possède (
 ##### Chapeau
 * **Chapellerie Traclet**: Made in France 🇫🇷 - https://www.chapellerie-traclet.com/fr/ ✔️
 
+##### Montres
+* **Jean Rousseau**: Made in France 🇫🇷 - https://www.jean-rousseau.com/ ✔️
+
 ##### Soins cuir
 * **Saphir**: Made in France 🇫🇷 - https://saphir.com/ - http://www.avel.com/ ✔️
 

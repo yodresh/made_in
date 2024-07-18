@@ -31,6 +31,7 @@ Toutes les marques présentés sont des marques que j'ai testé ou je possède (
 
 ##### Chapeau
 * **Chapellerie Traclet**: Made in France 🇫🇷 - https://www.chapellerie-traclet.com/fr/ ✔️
+* **Crambes**: Made in France 🇫🇷 - https://crambesoriginal.fr/ ✔️
 
 ##### Montres
 * **Jean Rousseau**: Made in France 🇫🇷 - https://www.jean-rousseau.com/ ✔️

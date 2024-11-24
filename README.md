@@ -102,6 +102,9 @@ Toutes les marques présentés sont des marques que j'ai testé ou je possède (
 * **Fermob**: Made in France 🇫🇷 - https://www.fermob.com/ ✔️
 * **Lafuma Mobilier**: Made in France 🇫🇷 - https://lafuma-mobilier.fr ✔️
 
+##### Indoor furniture
+* **Neology**: Made in France 🇫🇷 - https://www.neology.tm.fr/fr/nos-produits/canapes-et-fauteuils ✔️
+
 ## Outdoor
 ##### Vélos
 * **Victoire**: Made in France 🇫🇷 - https://www.victoire-cycles.com/
